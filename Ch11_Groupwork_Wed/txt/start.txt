@@ -1,0 +1,7 @@
+You are Dora. Do you want to go on an exploration?
+start_exploration.txt
+other_option.txt
+the_end0.txt
+1) Yes
+2) Yes, but cooler
+3) No
